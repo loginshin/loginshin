@@ -11,7 +11,7 @@
 </p>
 
 <p>
- 안녕하세요.👋 소통 팀 맨 앞자리 개발자 <strong>LoGinShin입니다</strong>.🙌
+ 안녕하세요.👋 개발자 <strong>신정환</strong>입니다.🙌
  <br> 성장할 수 있다면 가리지 않고 배우며<br> 색다른 경험을 도전하는 것을 즐깁니다.<br>
  'We need to step up our efforts... '
  
@@ -54,3 +54,4 @@
  ![LoGinShin GitHub stats](https://github-readme-stats.vercel.app/api?username=LoGinShin&show_icons=true&theme=transparent) -->
 
  </div>
+
