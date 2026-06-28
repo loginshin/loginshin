@@ -12,7 +12,6 @@
 
 <p>
  안녕하세요.👋 개발자 <strong>신정환</strong>입니다.🙌
- <br> 성장할 수 있다면 가리지 않고 배우며<br> 색다른 경험을 도전하는 것을 즐깁니다.<br>
  'We need to step up our efforts... '
  
  
